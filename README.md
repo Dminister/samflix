@@ -1,4 +1,4 @@
-# samflix Filmes Séries e muito mais em breve
+# SamFlix Filmes e Séries (Programa totalmente em Português para portugueses)
 <p></p>
 ...em breve...
 <p></p>
